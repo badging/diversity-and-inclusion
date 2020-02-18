@@ -8,7 +8,7 @@ Applications are conducted via the simple pull request workflow as follows:
    - [Event](https://github.com/badging/event-diversity-and-inclusion/edit/master/README.md)
 2. A pull request is opened to provide the details indicated in the respective template:
    - [Event](https://github.com/badging/event-diversity-and-inclusion/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
-<img src=assets/badges/badging.png height=72 />
+<img src="https://github.com/badging/meta/blob/master/assets/badges/badging.png" height=72 />
 
 This is the repository that houses documentation related to the Diversity & Inclusion Badging Project
 
@@ -29,10 +29,10 @@ Four statuses exist for the Diversity and Inclusion Badging Program:
 
 | Level        | Badge
 |--------------|---------------------------------------------------
-| Not Passing  | <img src=assets/badges/pending.png height=18 />
-| Passing      | <img src=assets/badges/passing.png height=18 />
-| Silver       | <img src=assets/badges/silver.png height=18 />
-| Gold         | <img src=assets/badges/gold.png height=18 />
+| Not Passing  | <img src="https://github.com/badging/meta/blob/master/assets/badges/pending.png" height=18 />
+| Passing      | <img src="https://github.com/badging/meta/blob/master/assets/badges/passing.png" height=18 />
+| Silver       | <img src="https://github.com/badging/meta/blob/master/assets/badges/silver.png" height=18 />
+| Gold         | <img src="https://github.com/badging/meta/blob/master/assets/badges/gold.png" height=18 />
 
 Each badge is made for an event or a project.
 
