@@ -4,6 +4,8 @@
 
 This is the repository that houses documentation related to the Diversity & Inclusion Badging Project
 
+The purpose of this repository is to serve as a "starting point" for the Diversity and Inclusion Badging Program
+
 ## Applying for Badges
 
 Applications are conducted via the simple pull request workflow as follows:
