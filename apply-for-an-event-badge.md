@@ -107,7 +107,7 @@ A: Yes the speaker demographics are measured.
 A: Subjective questions are been analysed to measure the speaker demographics, a survey is been carried out for the questions. Also investigating the responses of each group of analysis is very useful because this helps us to indicate whether some demographics feel less included than the average. Also for precise analysis the regiatration data can be used. Comparing the proposals submitted by speakers from diverse backgrounds is also very useful to accepted proposals. 
 
 ### Q: Please provide a statement on your event's commitment to Speaker Diversity & Inclusion.
-A: (EVENT?CONFERENCE_NAME) is commited in making sure that speakers with diverse backgrounds are selected are selected because they allow people from a variety of different backgrounds to feel more included in an event when they see people with similar demographics in important positions within the community irrespective if their proposals are acepted or not, they still have a chance to speeak.  
+A: (EVENT?CONFERENCE_NAME) is commited in making sure that speakers with diverse backgrounds are selected are selected because they allow people from a variety of different backgrounds to feel more included in an event when they see people with similar demographics in important positions within the community irrespective if their proposals are acepted or not, they still have a chance to speeak 
 
 
 
