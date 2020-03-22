@@ -32,12 +32,12 @@ Here are the primary deliverables of the Diversity & Inclusion Badging Program:
 
 Four statuses exist for the Diversity and Inclusion Badging Program:
 
-| Level        | Badge
-|--------------|---------------------------------------------------
-| Pending      | ![Pending]
-| Passing      | ![Passing]
-| Silver       | ![Silver]
-| Gold         | ![Gold]
+| Level        | Badge        |  Requirements Met
+|--------------|--------------|-------------------------------------
+| Pending      | ![Pending]   |  0-2
+| Passing      | ![Passing]   |  3
+| Silver       | ![Silver]    |  4
+| Gold         | ![Gold]      |  5
 
 Each badge is made for an event or a project.
 
