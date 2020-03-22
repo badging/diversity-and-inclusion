@@ -34,7 +34,7 @@ Four statuses exist for the Diversity and Inclusion Badging Program:
 
 | Level        | Badge        |  Requirements Met
 |--------------|--------------|-------------------------------------
-| Pending      | ![Pending]   |  0-2
+| Pending      | ![Pending]   |  0 to 2
 | Passing      | ![Passing]   |  3
 | Silver       | ![Silver]    |  4
 | Gold         | ![Gold]      |  5
