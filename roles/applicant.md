@@ -10,6 +10,8 @@ Applicants would be the primary stakeholders for any CHAOSS Badging review. They
 
 ## GitHub Permissions
 
+> Repository permission level: Read
+
 Things applicants will be able to do:
 
 - Submit details required for a Badging review.

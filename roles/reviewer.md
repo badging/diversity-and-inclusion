@@ -7,7 +7,7 @@ Reviewer will have access to review checklist, which is a list written in Markdo
 
 ## GitHub Permissions
 
-Reviewers will be added to a Badging organisation team.
+> Repository permission level: Write
 
 Things reviewers would be able to do:
 
