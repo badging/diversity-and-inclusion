@@ -6,16 +6,22 @@ This is the repository that houses documentation related to the Diversity & Incl
 
 The purpose of this repository is to serve as a "starting point" for the Diversity and Inclusion Badging Program
 
-## Applying for Badges
+## Table of contents
 
-Applications are conducted via the simple pull request workflow as follows:
+- [Prolem statement](#problem-statement)
+- [Opportunity](#opportunity)
+- [Goal](#goal)
+- [Applying for Badges](#applying-for-badges)
+- [Work to date](#work-to-date)
+- [Contributors](#contributors)
 
-1. An entry is appended to the README of the respective repository:
-   - [Event](https://github.com/badging/event-diversity-and-inclusion/edit/master/README.md)
-   - [Project](https://github.com/badging/project-diversity-and-inclusion/edit/master/README.md)
-2. A pull request is opened to provide the details indicated in the respective template:
-   - [Event](https://github.com/badging/event-diversity-and-inclusion/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
-   - [Project](https://github.com/badging/project-diversity-and-inclusion/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
+## Problem Statement
+
+Diversity in open source is opaque to participants, newcomers, and stakeholders because contributors are distributed, and in many cases are an agglomeration of individuals in different locations. Inclusivity for open source projects is impeded by long standing practices that have side effects that act to reproduce the current state of limited diversity.
+
+## Opportunity
+
+The project aims to increase understanding of the open source project and event practices that encourage greater diversity and wider inclusion of people from different backgrounds.
 
 ## Goal
 
@@ -28,7 +34,18 @@ Here are the primary deliverables of the Diversity & Inclusion Badging Program:
   * Connecting with existing badging standards of IMS Global including
   * Building an open, peer-review system for the D&I Badging Program
 
-## Badge Levels
+## Applying for Badges
+
+Applications are conducted via the simple pull request workflow as follows:
+
+1. An entry is appended to the README of the respective repository:
+   - [Event](https://github.com/badging/event-diversity-and-inclusion/edit/master/README.md)
+   - [Project](https://github.com/badging/project-diversity-and-inclusion/edit/master/README.md)
+2. A pull request is opened to provide the details indicated in the respective template:
+   - [Event](https://github.com/badging/event-diversity-and-inclusion/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
+   - [Project](https://github.com/badging/project-diversity-and-inclusion/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
+
+### Badge Levels
 
 Four statuses exist for the Diversity and Inclusion Badging Program:
 
@@ -40,14 +57,6 @@ Four statuses exist for the Diversity and Inclusion Badging Program:
 | Gold         | ![Gold]      |  5
 
 Each badge is made for an event or a project.
-
-### Problem Statement
-
-Diversity in open source is opaque to participants, newcomers, and stakeholders because contributors are distributed, and in many cases are an agglomeration of individuals in different locations. Inclusivity for open source projects is impeded by long standing practices that have side effects that act to reproduce the current state of limited diversity.
-
-### Opportunity
-
-The project aims to increase understanding of the open source project and event practices that encourage greater diversity and wider inclusion of people from different backgrounds.
 
 ## Work to Date
 
