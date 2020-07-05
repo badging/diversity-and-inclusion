@@ -6,16 +6,23 @@ This is the repository that houses documentation related to the Diversity & Incl
 
 The purpose of this repository is to serve as a "starting point" for the Diversity and Inclusion Badging Program
 
-## Applying for Badges
+## Table of contents
 
-Applications are conducted via the simple pull request workflow as follows:
+- [Prolem statement](#problem-statement)
+- [Opportunity](#opportunity)
+- [Goal](#goal)
+- [Applying for Badges](#applying-for-badges)
+- [Reviewing Badging submissions](#reviewing-badging-submissions)
+- [Work to date](#work-to-date)
+- [Contributors](#contributors)
 
-1. An entry is appended to the README of the respective repository:
-   - [Event](https://github.com/badging/event-diversity-and-inclusion/edit/master/README.md)
-   - [Project](https://github.com/badging/project-diversity-and-inclusion/edit/master/README.md)
-2. A pull request is opened to provide the details indicated in the respective template:
-   - [Event](https://github.com/badging/event-diversity-and-inclusion/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
-   - [Project](https://github.com/badging/project-diversity-and-inclusion/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
+## Problem Statement
+
+Diversity in open source is opaque to participants, newcomers, and stakeholders because contributors are distributed, and in many cases are an agglomeration of individuals in different locations. Inclusivity for open source projects is impeded by long standing practices that have side effects that act to reproduce the current state of limited diversity.
+
+## Opportunity
+
+The project aims to increase understanding of the open source project and event practices that encourage greater diversity and wider inclusion of people from different backgrounds.
 
 ## Goal
 
@@ -28,26 +35,65 @@ Here are the primary deliverables of the Diversity & Inclusion Badging Program:
   * Connecting with existing badging standards of IMS Global including
   * Building an open, peer-review system for the D&I Badging Program
 
-## Badge Levels
+## Applying for Badges
 
-Four statuses exist for the Diversity and Inclusion Badging Program:
+Applications are conducted via the simple pull request workflow as follows:
 
-| Level        | Badge        |  Requirements Met
+1. An entry is appended to the README of the respective repository:
+   - [Event](https://github.com/badging/event-diversity-and-inclusion/edit/master/README.md)
+   - [Project](https://github.com/badging/project-diversity-and-inclusion/edit/master/README.md)
+2. A pull request is opened to provide the details indicated in the respective template:
+   - [Event](https://github.com/badging/event-diversity-and-inclusion/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
+   - [Project](https://github.com/badging/project-diversity-and-inclusion/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
+
+### Project Badging
+
+The Project Badging section of CHAOSS Badging is about measuring inclusivity of different OSS projects through human reviews.
+
+In order to submit an application for a project, go through the following documents:
+- [Applicant role](./roles/applicant.md)
+- [Project submission requirements](https://github.com/badging/project-diversity-and-inclusion/requirements.md)
+- [Project submission guidelines](https://github.com/badging/project-diversity-and-inclusion/submission/guidelines.md)
+
+#### Badge Levels
+Four statuses exist for the Diversity and Inclusion Project Badging:
+
+| Level        | Badge        |  Status
 |--------------|--------------|-------------------------------------
-| Pending      | ![Pending]   |  0 to 2
+| Pending      | ![Pending]   |  Review ongoing/less than three deliverables met
 | Passing      | ![Passing]   |  3
 | Silver       | ![Silver]    |  4
 | Gold         | ![Gold]      |  5
 
-Each badge is made for an event or a project.
+### Event Badging
 
-### Problem Statement
+The Event Badging section of CHAOSS Badging is about measuring inclusivity of different technical events through human reviews.
 
-Diversity in open source is opaque to participants, newcomers, and stakeholders because contributors are distributed, and in many cases are an agglomeration of individuals in different locations. Inclusivity for open source projects is impeded by long standing practices that have side effects that act to reproduce the current state of limited diversity.
+In order to submit an application for a project, go through the following documents:
+- [Applicant role](./roles/applicant.md)
+- [Event submission requirements](https://github.com/badging/event-diversity-and-inclusion/requirements.md)
+- [Event submission guidelines](https://github.com/badging/event-diversity-and-inclusion/submission/guidelines.md)
+- [Event Criteria](https://github.com/badging/event-diversity-and-inclusion/submission/event-criteria.md)
 
-### Opportunity
+#### Badge Levels
 
-The project aims to increase understanding of the open source project and event practices that encourage greater diversity and wider inclusion of people from different backgrounds.
+Two statuses exist for the Diversity and Inclusion Event Badging:
+
+| Level        | Badge        |  Requirements Met
+|--------------|--------------|-------------------------------------
+| Pending      | ![Pending]   |  Review ongoing/required deliverables on met
+| Passing      | ![Passing]   |  Required deliverables met
+
+
+## Reviewing Badging submissions
+
+Reviewers are an essential part of CHAOSS Badging since their feedback and interaction with an applicant would determine the direction an application takes.
+
+In order to get familiar with what is expected of reviewers, go through the following documents:
+  - [Rewiewer role](./roles/reviewer.md)
+  - [Reviewer guide](./reviewer-guide.md)
+
+To become a part of the process, open an issue on this repository with the title `Reviewer application` and introduce yourself.
 
 ## Work to Date
 
