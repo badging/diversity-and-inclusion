@@ -47,16 +47,26 @@ Applications are conducted via the simple pull request workflow as follows:
 
 ### Badge Levels
 
-Four statuses exist for the Diversity and Inclusion Badging Program:
+#### Project Badging
+Four statuses exist for the Diversity and Inclusion Project Badging:
 
-| Level        | Badge        |  Requirements Met
+| Level        | Badge        |  Status
 |--------------|--------------|-------------------------------------
-| Pending      | ![Pending]   |  0 to 2
+| Pending      | ![Pending]   |  Review ongoing/less than three deliverables met
 | Passing      | ![Passing]   |  3
 | Silver       | ![Silver]    |  4
 | Gold         | ![Gold]      |  5
 
-Each badge is made for an event or a project.
+#### Event Badging
+
+Two statuses exist for the Diversity and Inclusion Event Badging:
+
+| Level        | Badge        |  Requirements Met
+|--------------|--------------|-------------------------------------
+| Pending      | ![Pending]   |  Review ongoing/required deliverables on met
+| Passing      | ![Passing]   |  Required deliverables met
+
+
 
 ## Work to Date
 
