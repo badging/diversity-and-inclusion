@@ -12,6 +12,7 @@ The purpose of this repository is to serve as a "starting point" for the Diversi
 - [Opportunity](#opportunity)
 - [Goal](#goal)
 - [Applying for Badges](#applying-for-badges)
+- [Reviewing Badging submissions](#reviewing-badging-submissions)
 - [Work to date](#work-to-date)
 - [Contributors](#contributors)
 
@@ -45,9 +46,16 @@ Applications are conducted via the simple pull request workflow as follows:
    - [Event](https://github.com/badging/event-diversity-and-inclusion/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
    - [Project](https://github.com/badging/project-diversity-and-inclusion/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
 
-### Badge Levels
+### Project Badging
 
-#### Project Badging
+The Project Badging section of CHAOSS Badging is about measuring inclusivity of different OSS projects through human reviews.
+
+In order to submit an application for a project, go through the following documents:
+- [Applicant role](./roles/applicant.md)
+- [Project submission requirements](https://github.com/badging/project-diversity-and-inclusion/requirements.md)
+- [Project submission guidelines](https://github.com/badging/project-diversity-and-inclusion/submission/guidelines.md)
+
+#### Badge Levels
 Four statuses exist for the Diversity and Inclusion Project Badging:
 
 | Level        | Badge        |  Status
@@ -57,7 +65,17 @@ Four statuses exist for the Diversity and Inclusion Project Badging:
 | Silver       | ![Silver]    |  4
 | Gold         | ![Gold]      |  5
 
-#### Event Badging
+### Event Badging
+
+The Event Badging section of CHAOSS Badging is about measuring inclusivity of different technical events through human reviews.
+
+In order to submit an application for a project, go through the following documents:
+- [Applicant role](./roles/applicant.md)
+- [Event submission requirements](https://github.com/badging/event-diversity-and-inclusion/requirements.md)
+- [Event submission guidelines](https://github.com/badging/event-diversity-and-inclusion/submission/guidelines.md)
+- [Event Criteria](https://github.com/badging/event-diversity-and-inclusion/submission/event-criteria.md)
+
+#### Badge Levels
 
 Two statuses exist for the Diversity and Inclusion Event Badging:
 
@@ -67,6 +85,15 @@ Two statuses exist for the Diversity and Inclusion Event Badging:
 | Passing      | ![Passing]   |  Required deliverables met
 
 
+## Reviewing Badging submissions
+
+Reviewers are an essential part of CHAOSS Badging since their feedback and interaction with an applicant would determine the direction an application takes.
+
+In order to get familiar with what is expected of reviewers, go through the following documents:
+  - [Rewiewer role](./roles/reviewer.md)
+  - [Reviewer guide](./reviewer-guide.md)
+
+To become a part of the process, open an issue on this repository with the title `Reviewer application` and introduce yourself.
 
 ## Work to Date
 

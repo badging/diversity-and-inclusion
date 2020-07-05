@@ -1,4 +1,4 @@
-# Reviewer Guidelines
+# Reviewer Guide
 
 CHAOSS Badging reviewers are expected to check an applicant's submissions against a review checklist.
 
