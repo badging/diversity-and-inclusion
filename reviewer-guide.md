@@ -12,5 +12,5 @@ For Projects:
   - This follows predefined badge levels.
 
 For Events:
-  - Each event will follow a [certain criteria](https://github.com/badging/event-diversity-and-inclusion/submission/event-criteria.md). Currently, there are four metric sets which can be applied for by an Event Badging applicant.
+  - Each event will follow a [certain criteria](https://github.com/badging/event-diversity-and-inclusion/blob/master/submission/event-criteria.md). Currently, there are four metric sets which can be applied for by an Event Badging applicant.
   - Event reviews go on until all the metrics the Applicant gave their statement for qualify all the given checks.
