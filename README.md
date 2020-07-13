@@ -73,7 +73,7 @@ Two statuses exist for the Diversity and Inclusion Event Badging:
 
 | Level        | Badge        |  Requirements Met
 |--------------|--------------|-------------------------------------
-| Pending      | ![Pending]   |  Review ongoing/required deliverables on met
+| Pending      | ![Pending]   |  Review ongoing/required deliverables not met
 | Passing      | ![Passing]   |  Required deliverables met
 
 
