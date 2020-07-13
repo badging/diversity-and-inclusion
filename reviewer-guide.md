@@ -18,7 +18,7 @@ For all submissions:
   - If you have feedback outside of the scope of what the review checklist asks for, create a new comment informing the applicant about that.
 
 For Projects:
-  - It is essential for project submissions to meet at least three metric requirements in order for the submission to be complete, but a Project badging review could continue until the Applicant can integrate no more feedback in their application to make it better.
+  - It is essential for project submissions to meet at least three metric requirements in order to get a badge above "Pending", and projects may be resubmitted.
   - There are four Badging levels for Projects, depending on number of deliverables that are met.
 
 For Events:
