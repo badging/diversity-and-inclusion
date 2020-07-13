@@ -3,7 +3,7 @@
 ## Responsibilities
 
 The reviewer role would belong to people who would be responsible for reviewing the details submitted by an applicant.
-Reviewer will have access to review checklist, which is a list written in Markdown detailing the criterias a submission has to be measured against.
+Reviewers will have access to the review checklist, which is a list written in Markdown detailing the criteria a submission has to be measured against.
 
 ## GitHub Permissions
 
