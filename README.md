@@ -82,7 +82,7 @@ Two statuses exist for the Diversity and Inclusion Event Badging:
 Reviewers are an essential part of CHAOSS Badging since their feedback and interaction with an applicant would determine the direction an application takes.
 
 In order to get familiar with what is expected of reviewers, go through the following documents:
-  - [Rewiewer role](./roles/reviewer.md)
+  - [Rewiewer role](./roles/reviewer.md) - This document describes the GitHub permmissions and the responsibilities of a CHAOSS Badging Reviewer.
   - [Reviewer guide](./reviewer-guide.md)
 
 To become a part of the process, open an issue on this repository with the title `Reviewer application` and introduce yourself.
