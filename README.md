@@ -8,7 +8,7 @@ The purpose of this repository is to serve as a "starting point" for the Diversi
 
 ## Table of contents
 
-- [Prolem statement](#problem-statement)
+- [Problem statement](#problem-statement)
 - [Opportunity](#opportunity)
 - [Goal](#goal)
 - [Applying for Badges](#applying-for-badges)
@@ -42,7 +42,7 @@ Here are the primary deliverables of the Diversity & Inclusion Badging Program:
 The Project Badging section of CHAOSS Badging is about measuring inclusivity of different OSS projects through human reviews.
 
 In order to submit an application for a project, go through the following documents:
-- [Applicant role](./roles/applicant.md) - This document describes the GitHub permmissions and the responsibilities of a CHAOSS Badging Applicant.
+- [Applicant role](./roles/applicant.md) - This document describes the GitHub permissions and the responsibilities of a CHAOSS Badging Applicant.
 - [Project submission requirements](https://github.com/badging/project-diversity-and-inclusion/blob/master/submission/requirements.md) - Minimum requirements for a project to be eligible for participation in CHAOSS Badging process.
 - [Project submission guidelines](https://github.com/badging/project-diversity-and-inclusion/blob/master/submission/guidelines.md) - Guidelines and steps on how a Project can gain a badge under the CHAOSS Badging program.
 
@@ -62,14 +62,14 @@ Four statuses exist for the Diversity and Inclusion Project Badging:
 The Event Badging section of CHAOSS Badging is about measuring inclusivity of different technical events through human reviews.
 
 In order to submit an application for a project, go through the following documents:
-- [Applicant role](./roles/applicant.md) - This document describes the GitHub permmissions and the responsibilities of a CHAOSS Badging Applicant.
+- [Applicant role](./roles/applicant.md) - This document describes the GitHub permissions and the responsibilities of a CHAOSS Badging Applicant.
 - [Event submission requirements](https://github.com/badging/event-diversity-and-inclusion/blob/master/submission/requirements.md) - Minimum requirements for a Event to be eligible for participation in CHAOSS Badging process.
 - [Event submission guidelines](https://github.com/badging/event-diversity-and-inclusion/blob/master/submission/guidelines.md) - Guidelines and steps on how a Event can gain a badge under the CHAOSS Badging program.
 - [Event Criteria](https://github.com/badging/event-diversity-and-inclusion/blob/master/submission/event-criteria.md) - Additional criteria for Event Badging.
 
 #### Badge Levels
 
-Two statuses exist for the Diversity and Inclusion Event Badging:
+Event badging has five metrics divided into four [different sets](https://github.com/badging/event-diversity-and-inclusion/blob/master/submission/event-criteria.md), which depend more on what scale the event is organized at. Hence, Event badging only has two states as of now:
 
 | Level        | Badge        |  Requirements Met
 |--------------|--------------|-------------------------------------
@@ -82,7 +82,7 @@ Two statuses exist for the Diversity and Inclusion Event Badging:
 Reviewers are an essential part of CHAOSS Badging since their feedback and interaction with an applicant would determine the direction an application takes.
 
 In order to get familiar with what is expected of reviewers, go through the following documents:
-  - [Rewiewer role](./roles/reviewer.md) - This document describes the GitHub permmissions and the responsibilities of a CHAOSS Badging Reviewer.
+  - [Reviewer role](./roles/reviewer.md) - This document describes the GitHub permmissions and the responsibilities of a CHAOSS Badging Reviewer.
   - [Reviewer guide](./reviewer-guide.md)
 
 To become a part of the process, open an issue on this repository with the title `Reviewer application` and introduce yourself.
