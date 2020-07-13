@@ -6,7 +6,7 @@ A CHAOSS Badging application starts when an Applicant opens a Pull Request on ei
 
 During a review, a Reviewer would analyse the information given by an Applicant using the Review Checklist. The checklist has both quantitative and qualitative checks. There are separate checklists for both [Event](https://github.com/badging/event-diversity-and-inclusion/blob/master/.github/checklist.md) and [Project](https://github.com/badging/project-diversity-and-inclusion/blob/master/.github/checklist.md) reviews.
 
-The Quantitative checks are about checking for certain type of information present in the documents/links that the applicant provides, or asking the applicant for information about specific processes. The Qualitative checks are for providing feedback on quantitative checks.
+The Quantitative checks are about checking for certain types of information present in the documents/links that the applicant provides, or asking the applicant for information about specific processes. The Qualitative checks are for providing feedback on quantitative checks.
 
 > ❗ If all Quantitative checks for one metric are positive, then one deliverable is met.
 
