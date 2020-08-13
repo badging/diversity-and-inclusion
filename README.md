@@ -68,11 +68,11 @@ In order to get familiar with what is expected of reviewers, go through the foll
   - [Reviewer role](./roles/reviewer.md) - This document describes the GitHub permmissions and the responsibilities of a CHAOSS Badging Reviewer.
   - [Reviewer guide](./reviewer-guide.md)
 
-To become a part of the process, open an issue on this repository with the title `Reviewer application` and introduce yourself.
+**To become a part of the process, open an issue on this repository with the title `Reviewer Application` and introduce yourself**
 
 ## Work to Date
 
-The project is in its beginning stages. See the issue templates for the most up-to-date work.
+The CHAOSS Badging Project has performed a pilot test and we are in preparation for another pilot test and the project launch. Please email [Matt Snell](msnell@unomaha.edu) for more information!
 
 ## Contributors
 
