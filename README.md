@@ -37,26 +37,6 @@ Here are the primary deliverables of the Diversity & Inclusion Badging Program:
 
 ## Applying for Badges
 
-### Project Badging
-
-The Project Badging section of CHAOSS Badging is about measuring inclusivity of different OSS projects through human reviews.
-
-In order to submit an application for a project, go through the following documents:
-- [Applicant role](./roles/applicant.md) - This document describes the GitHub permissions and the responsibilities of a CHAOSS Badging Applicant.
-- [Project submission requirements](https://github.com/badging/project-diversity-and-inclusion/blob/master/submission/requirements.md) - Minimum requirements for a project to be eligible for participation in CHAOSS Badging process.
-- [Project submission guidelines](https://github.com/badging/project-diversity-and-inclusion/blob/master/submission/guidelines.md) - Guidelines and steps on how a Project can gain a badge under the CHAOSS Badging program.
-
-#### Badge Levels
-Four statuses exist for the Diversity and Inclusion Project Badging:
-
-| Level        | Badge        |  Status
-|--------------|--------------|-------------------------------------
-| Pending      | ![Pending]   |  Review ongoing/less than three deliverables met
-| Passing      | ![Passing]   |  3
-| Silver       | ![Silver]    |  4
-| Gold         | ![Gold]      |  5
-
-
 ### Event Badging
 
 The Event Badging section of CHAOSS Badging is about measuring inclusivity of different technical events through human reviews.
@@ -65,17 +45,20 @@ In order to submit an application for a project, go through the following docume
 - [Applicant role](./roles/applicant.md) - This document describes the GitHub permissions and the responsibilities of a CHAOSS Badging Applicant.
 - [Event submission requirements](https://github.com/badging/event-diversity-and-inclusion/blob/master/submission/requirements.md) - Minimum requirements for a Event to be eligible for participation in CHAOSS Badging process.
 - [Event submission guidelines](https://github.com/badging/event-diversity-and-inclusion/blob/master/submission/guidelines.md) - Guidelines and steps on how a Event can gain a badge under the CHAOSS Badging program.
-- [Event Criteria](https://github.com/badging/event-diversity-and-inclusion/blob/master/submission/event-criteria.md) - Additional criteria for Event Badging.
 
 #### Badge Levels
 
-Event badging has five metrics divided into four [different sets](https://github.com/badging/event-diversity-and-inclusion/blob/master/submission/event-criteria.md), which depend more on what scale the event is organized at. Hence, Event badging only has two states as of now:
-
+Event badging has five metrics. Four statuses exist for the Diversity and Inclusion Event Badging:
 | Level        | Badge        |  Requirements Met
 |--------------|--------------|-------------------------------------
 | Pending      | ![Pending]   |  Review ongoing/required deliverables not met
 | Passing      | ![Passing]   |  Required deliverables met
+| Silver       | ![Silver]    |  Event uses above-average D&I Practices
+| Gold         | ![Gold]      |  Event excels at D&I Practices
 
+### Project Badging
+
+#### Project badging is not planned for the current release. It will be refined and used for the second release. 
 
 ## Reviewing Badging submissions
 
@@ -97,6 +80,11 @@ The project is in its beginning stages. See the issue templates for the most up-
 
 - [Matt Snell](https://github.com/nebrethar)
 - [Saleh Abdel Motaal](https://github.com/smotaal)
+
+**Core Contributors**
+
+- [Ore-Aruwaji Oloruntola](https://github.com/thecraftman)
+- [Aastha Bist](https://github.com/bistaastha)
 
 [Pending]: https://img.shields.io/badge/D%26I-Pending-red?style=flat-square&labelColor=583586&logo=data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDI1MCAyNTAiPgo8cGF0aCBmaWxsPSIjMUM5QkQ2IiBkPSJNOTcuMSw0OS4zYzE4LTYuNywzNy44LTYuOCw1NS45LTAuMmwxNy41LTMwLjJjLTI5LTEyLjMtNjEuOC0xMi4yLTkwLjgsMC4zTDk3LjEsNDkuM3oiLz4KPHBhdGggZmlsbD0iIzZBQzdCOSIgZD0iTTE5NC42LDMyLjhMMTc3LjIsNjNjMTQuOCwxMi4zLDI0LjcsMjkuNSwyNy45LDQ4LjVoMzQuOUMyMzYuMiw4MC4yLDIxOS45LDUxLjcsMTk0LjYsMzIuOHoiLz4KPHBhdGggZmlsbD0iI0JGOUNDOSIgZD0iTTIwNC45LDEzOS40Yy03LjksNDMuOS00OS45LDczLTkzLjgsNjUuMWMtMTMuOC0yLjUtMjYuOC04LjYtMzcuNS0xNy42bC0yNi44LDIyLjQKCWM0Ni42LDQzLjQsMTE5LjUsNDAuOSwxNjIuOS01LjdjMTYuNS0xNy43LDI3LTQwLjIsMzAuMS02NC4ySDIwNC45eiIvPgo8cGF0aCBmaWxsPSIjRDYxRDVGIiBkPSJNNTUuNiwxNjUuNkMzNS45LDEzMS44LDQzLjMsODguOCw3My4xLDYzLjVMNTUuNywzMy4yQzcuNSw2OS44LTQuMiwxMzcuNCwyOC44LDE4OEw1NS42LDE2NS42eiIvPgo8L3N2Zz4K
 
