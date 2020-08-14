@@ -53,7 +53,7 @@ Badges are assigned according to how the Reviewers mark out the [review checklis
 The percentages are calculated excluding the initial checks, based of the average of checklists of at least two reviewers.
 
 
-| Level        | Badge        |  Perentage of Requirements Met
+| Level        | Badge        |  Percentage of Requirements Met
 |--------------|--------------|-------------------------------------
 | Pending      | ![Pending]   |  Less than 40%
 | Passing      | ![Passing]   |  Greater than or equal to 40% and less than 60%
