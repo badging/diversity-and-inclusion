@@ -48,13 +48,17 @@ In order to submit an application for a project, go through the following docume
 
 #### Badge Levels
 
-Event badging has five metrics. Four statuses exist for the Diversity and Inclusion Event Badging:
-| Level        | Badge        |  Requirements Met
+Badges are assigned according to how the Reviewers mark out the [review checklist](https://github.com/badging/event-diversity-and-inclusion/blob/master/.github/checklist.md) according to the the information initially filled in by the Applicant.
+
+The percentages are calculated excluding the initial checks, based of the average of checklists of at least two reviewers.
+
+
+| Level        | Badge        |  Perentage of Requirements Met
 |--------------|--------------|-------------------------------------
-| Pending      | ![Pending]   |  Review ongoing/required deliverables not met
-| Passing      | ![Passing]   |  Required deliverables met
-| Silver       | ![Silver]    |  Event uses above-average D&I Practices
-| Gold         | ![Gold]      |  Event excels at D&I Practices
+| Pending      | ![Pending]   |  Less than 40%
+| Passing      | ![Passing]   |  Greater than or equal to 40% and less than 60%
+| Silver       | ![Silver]    |  Greater than or equal to 60% and less than 80%
+| Gold         | ![Gold]      |  Greater than 80%
 
 ### Project Badging
 
