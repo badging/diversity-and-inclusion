@@ -12,10 +12,8 @@ Reviewers will have access to the review checklist, which is a list written in M
 Things reviewers would be able to do:
 
 - Edit their own comments.
-- Create all three types of [PR comments](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/commenting-on-a-pull-request).
 - Edit the Review Checklists.
 
 Things reviewers won't be able to do:
 
-- Merge Pull Requests.
 - Edit an applicant's comment.
