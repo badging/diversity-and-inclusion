@@ -2,11 +2,9 @@
 
 ## Working with checklists
 
-A CHAOSS Badging application starts when an Applicant opens a Pull Request on the [event](https://github.com/badging/event-diversity-and-inclusion) badging repository. They fill out a form to create a GitHub issue, which contains the information a reviewer looks at. Upon being assigned an issue, a checklist is generated in the form of a comment. This will contain the name of the reviewer.
+A CHAOSS Badging application starts when an Applicant opens an issue on the [event](https://github.com/badging/event-diversity-and-inclusion) badging repository. They fill out a form to create a GitHub issue, which contains the information a reviewer looks at. Upon being assigned an issue, a checklist is generated in the form of a comment. This will contain the name of the reviewer.
 
-During a review, a Reviewer would analyse the information given by an Applicant using the Review Checklist. The checklist has both quantitative and qualitative checks. The checklist can be found [here](https://github.com/badging/event-diversity-and-inclusion/blob/master/.github/checklist.md).
-
-The Quantitative checks are about checking for certain types of information present in the documents/links that the applicant provides, or asking the applicant for information about specific processes. The Qualitative checks are for providing feedback on quantitative checks.
+During a review, a Reviewer would analyse the information given by an Applicant using the Review Checklist. The checklist can be found [here](https://github.com/badging/event-diversity-and-inclusion/blob/master/.github/checklist.md).
 
 ## Guidelines
 
