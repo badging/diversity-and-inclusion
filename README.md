@@ -26,7 +26,7 @@ The project aims to increase understanding of the open source project and event 
 
 ## Goal
 
-The goal of the Diversity & Inclusion Badging Program is to encourage projects and events to obtain D&I badges for reasons of pride, leadership, self-reflection, and self-improvement on issues critical to building the Internet as a social good.
+The goal of the Diversity & Inclusion Badging Program is to encourage projects and events to obtain D&I badges for reasons of leadership, self-reflection, and self-improvement on issues critical to building the Internet as a social good.
 
 Here are the primary deliverables of the Diversity & Inclusion Badging Program:
 
