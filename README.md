@@ -35,6 +35,8 @@ Here are the primary deliverables of the Diversity & Inclusion Badging Program:
   * Connecting with existing badging standards of IMS Global including
   * Building an open, peer-review system for the D&I Badging Program
 
+##### The goal of CHAOSS Badging is to measure the process, NOT the result
+
 ## Applying for Badges
 
 ### Event Badging
