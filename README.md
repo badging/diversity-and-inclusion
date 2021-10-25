@@ -60,10 +60,6 @@ The percentages are calculated excluding the initial checks, based of the averag
 | Silver       | ![Silver]    |  Greater than or equal to 60% and less than 80%
 | Gold         | ![Gold]      |  Greater than 80%
 
-### Project Badging
-
-#### Project badging is not planned for the current release. It will be refined and used for the second release. 
-
 ## Reviewing Badging submissions
 
 Reviewers are an essential part of CHAOSS Badging since their feedback and interaction with an applicant would determine the direction an application takes.
